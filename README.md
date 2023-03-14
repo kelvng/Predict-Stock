@@ -11,20 +11,20 @@ This repository includes Jupyter Notebook files that demonstrate how to use LSTM
 ## Dependencies
 This project requires the following dependencies:
 
-Python 3.x
-Keras
-NumPy
-Pandas
-Matplotlib
+- Python 3.x
+- Keras
+- NumPy
+- Pandas
+- Matplotlib
 
 # References
 
 This project was inspired by the following resources:
 
-Time Series Analysis with LSTM using Python's Keras Library by Usman Malik
+- Time Series Analysis with LSTM using Python's Keras Library by Usman Malik
 
-Stock Price Prediction using LSTM and RNN Model by Muhammad Ahmed
+- Stock Price Prediction using LSTM and RNN Model by Muhammad Ahmed
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the `LICENSE` file for details.
