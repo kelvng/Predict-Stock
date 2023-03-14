@@ -1,4 +1,4 @@
-#Predicting Stock Prices Using LSTM
+# Predicting Stock Prices Using LSTM
 
 This repository contains Jupyter Notebook files that demonstrate how to use Long Short-Term Memory (LSTM) networks to predict stock prices.
 
@@ -18,9 +18,13 @@ Pandas
 Matplotlib
 
 # References
+
 This project was inspired by the following resources:
 
 Time Series Analysis with LSTM using Python's Keras Library by Usman Malik
+
 Stock Price Prediction using LSTM and RNN Model by Muhammad Ahmed
-License
+
+## License
+
 This project is licensed under the MIT License. See the LICENSE file for details.
